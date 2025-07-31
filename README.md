@@ -1,0 +1,2 @@
+These two programs implement reinforcement learning for the Pacman game using Farma's GYM API as the environment. The first program does not use any policy; instead, the agent selects actions at random. In contrast, the second program implements a Deep Q-Network (DQN) to guide action selection. This significantly improves performance and demonstrates a more efficient and intelligent policy for reinforcement learning agents.
+
